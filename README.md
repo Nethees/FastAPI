@@ -2,8 +2,6 @@
 
 A mini production-style REST API built with FastAPI for tracking issues. This project demonstrates core FastAPI concepts including routing, data validation with Pydantic, CRUD operations, and file-based persistence.
 
-This is the project from my [FastAPI Crash Course](https://youtu.be/8TMQcRcBnW8)
-
 ## Features
 
 - Full CRUD operations for issues
@@ -24,7 +22,7 @@ This is the project from my [FastAPI Crash Course](https://youtu.be/8TMQcRcBnW8)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/bradtraversy/fastapi-issue-tracker.git
+git clone https://github.com/Nethees/FastAPI.git
 cd fastapi-issue-tracker
 ```
 
@@ -154,13 +152,6 @@ fastapi-issue-tracker/
     ├── crash_course.md              # Written FastAPI tutorial
     └── crash_course_excalidraw.png  # Architecture diagram from video
 ```
-
-## Documentation
-
-The `docs` folder contains supplementary learning materials:
-
-- **crash_course.md** - A written FastAPI crash course covering all the concepts used in this project
-- **crash_course_excalidraw.png** - The Excalidraw architecture diagram from the YouTube video
 
 ## License
 
